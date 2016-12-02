@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_cdaa08b7b2d961e8e27bc53b288090a83a13dc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_676f174eeb1c7831e1419efb9b8fce563dbbd64c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_55104937ab0d2cf9abfe6bce62d05fe93b90e54f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_102df5f3e47dd375abf445e75b077782792aa35b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6fbbb9c59119ba2afaa478e31119aaa24bcbec62">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bfc1aa02552f951467420374898408aebb1b14b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ba506886612fdd5b67e6cc072a2c8e37a09d0183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_11b1498ee633e07dda08ed53028232651eae4d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_707d5919d2cb4765edacf5abedac4354c4a7a984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_236e239f47adfe0201013159f363e03835fdac3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b35905a8f67a8c40e6fee17d0225c75267c45390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0d3f43bb6cca13c38adaf277c1e725b57f012beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fcbb5ceed9d9505b5f6b2c020e4297566be51ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/me.littlecheesecake/croplayout/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="99e86bed458e92d0ebc50c10828c1e7db276aea0">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.littlecheesecake-croplayout-1.0.5_d52edfd483de9e16c41479f8772a9844cdfb0eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_39214ddd9b036a871f369aebbd42bea5ce2f84a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_750e013b4bff0350d5d274c7968aa0bfb62d251a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5a65b5a9cf50855c6505682cea8c1e138ba63941">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c94d283e1de1572146a199701710599037c26bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_95eea3634b0c5d45c4f72c11fd576e52371398d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c14ba423f10f5745900df23006d74320f3f27b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_558310f05235437ddb6761fd61a63cf40715ea56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_95c0a4897c7eb443faf30c90a7ff98ec8053c8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e8755d37c6e9def82058b1a9d8f51173c07aa583/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fd7e1a409d70aa1258f98b292a2abf0b25e06a63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9406a8c2498bea3d3d12d9b315d2b9f50f234b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d4c951765b706af68b7fa70980a0e15767daba9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_630ce522f7c6a304d605ddee5445e8d894eccd6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0b0691031d98e147de93fae93f67be153204fcd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_d1f18e93701fce71ae04f9736dbbaa2e9aebf893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_6ea2aa7f46bf8aea0a4fc0d62ce06bc2e93a57ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a36df767a27a08d024c6f3b3a843f133af753ddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cfe4ba689f76de62df6166fdda3bfdca739cac26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_0f25aaae351bb948cd977356ae0121e599b5fc43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_362d405fd7254e2df1984a35a6141d916be1682e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_978317dcb96375e02c162acf7a88de7f333d71bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a258a61583258e7cc8860c659dd46c973644128b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4c907490a4ab231a45913afa516d95c4c0cfb4e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_6fba2d1971a10ee6e65280415c673a0075d7c3ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c2dbb233a93d2bbf1a5f0ca7d0127fb015cc6dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_a5797b197ab2a269c804b8b1467e25b5341cf7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_777b76b2ba3e22eccf7ba9ec60c81a7670a9242a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c1e2ca568cc6de784a7483dece85165c2881c679">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16b7717da54fc5fcdfe3eb4208bc0972e31c6b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/version1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_b1263a694853ace3094c4c8f3cb3ff66c76ee694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4a5fcdd644a451a706bb899a42b7a5f65aee52d9">
+        <dex dex="/Users/somya/Desktop/AndroidProjects/Inclov_Profiles/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de43bca16b7cb49e94ca3de8aaa9727a5a569906/classes.dex" />
+    </item>
+
+</items>

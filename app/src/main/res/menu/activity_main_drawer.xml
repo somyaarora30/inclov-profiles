@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Me" />
+        <item
+            android:id="@+id/nav_likes"
+            android:icon="@drawable/ic_likes"
+            android:title="Likes" />
+        <item
+            android:id="@+id/nav_matches"
+            android:icon="@drawable/ic_match"
+            android:title="Matches" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_notifications"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+
+    </group>
+
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="About Us"
+            />
+
+
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/ic_contact_phone_black_24dp"
+            android:title="Contact Us" />
+
+
+        <item
+            android:id="@+id/nav_termsandconditions"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Terms and Conditions" />
+    </group>
+
+</menu>
